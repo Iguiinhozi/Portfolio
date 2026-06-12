@@ -1,4 +1,4 @@
-# Meu Portfolio
+# Portfolio
 Bem-vindo ao meu portfólio! 🚀
 
 Este projeto foi desenvolvido para apresentar minhas habilidades, experiências e projetos na área de Tecnologia da Informação. Aqui você encontrará informações sobre minha trajetória profissional, conhecimentos técnicos e trabalhos realizados.
@@ -21,6 +21,7 @@ Design responsivo
 
 Contato
 LinkedIn:www.linkedin.com/in/igormicaelzz
+
 E-mail:contato.igormicaeldev@gmail.com
 
 🔗 Acesse o portfólio: (link do site)
